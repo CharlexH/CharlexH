@@ -26,6 +26,16 @@ Product designer and independent maker in Hangzhou. I bring design and engineeri
 </td></tr>
 </table>
 
+### First Principles Council
+
+[![First Principles Council — Five lenses. One testable next move.](https://raw.githubusercontent.com/CharlexH/first-principles-council/main/assets/banner.svg)](https://github.com/CharlexH/first-principles-council)
+
+An open-source agent skill for questioning business assumptions and choosing a testable next move. Inspired by Feynman, Christensen, and other method-makers. Experimental, with public comparisons.
+
+第一性原理议事厅：借鉴五种思考方法，拆解商业机会、判断赚钱路径。附用与不用的实际答卷，以及可微信转发的离线安装包。
+
+[Explore the skill →](https://github.com/CharlexH/first-principles-council) · [中文介绍](https://github.com/CharlexH/first-principles-council/blob/main/README.zh-CN.md) · [下载离线包](https://github.com/CharlexH/first-principles-council/releases/tag/v1.3.0)
+
 ### Selected projects
 
 | | Project | What it does |
